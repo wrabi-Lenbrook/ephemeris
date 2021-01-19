@@ -8,8 +8,11 @@ One can hop from planet to planet. All it takes is a rocket and a space suit, an
 
 > 
 > "But what does that mean - ephemeral?" repeated the little prince, who never in his life had let go of a question, once he had asked it.
+>
 > "It means that which is in danger of speedy disappearance."
+>
 > "Is my planet in danger of speedy disappearance?"
+>
 > "Certainly it is."
 
 ## See also
