@@ -1,10 +1,14 @@
+---
+book: Rig Veda
+extract: नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् | किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥   (Then even non-existence was not there, nor existence, there was no air then, nor the space beyond it.)
+---
+
 # Aryabhat’s theorems
 
-Space, as defined by the Oxford English dictionary, is the dimensions of height, depth, and width within which all things exist and move. It is almost a vacuum, containing almost nothing. The Rig Veda describes such nothingness poetically:
+Space, as defined by the Oxford English dictionary, is the dimensions of height, depth, and width within which all things exist and move. It is almost a vacuum, containing almost nothing. The {{ page.book }} describes such nothingness poetically:
 
->  नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् | किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥
->  
->  Then even non-existence was not there, nor existence, there was no air then, nor the space beyond it.
+>  {{ page.extract }}
+
 
 We know from observations that space is filled with objects that are, primarily, spherical in nature and are hot dense masses of solids, liquids, and gas, and that these spherical masses might have sentient life forms living on them.
 
