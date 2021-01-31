@@ -1,4 +1,5 @@
 ---
+layout: demo
 title: Rising Sun
 ---
 
