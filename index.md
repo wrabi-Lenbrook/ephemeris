@@ -9,4 +9,4 @@ Everything about Jabberwocky.
 
 ------
 
-[Link to demo page](topics/demo_variables.md]
+[Link to demo page](topics/demo_variables.md)
