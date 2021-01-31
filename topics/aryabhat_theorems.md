@@ -1,6 +1,6 @@
 ---
-book: Rig Veda
-extract: नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् . किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥ | Then even non-existence was not there, nor existence, there was no air then, nor the space beyond it.
+book: Bible
+extract: And there was darkness on the face of the earth....
 ---
 
 # Aryabhat’s theorems
