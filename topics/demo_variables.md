@@ -1,14 +1,9 @@
 ---
-dates: 1757, 1764, 1767, 1780, 1790, 1799, 1857
-title: Demo page for variables
+name: Nadia Comaneci
+sport: gymnastics
+country: Romania
 ---
 
-# {{ page.title }}
+# 1976 Olympics
 
-Print the dates on a list:
-
-{% for item in page.dates %}
-
-- {{ item }}
-
-{% endfor %}
+That year, the spotlight was focussed on {{ page.name }} of  {{ page.country }}, who changed {{ page.sport }} forever.
