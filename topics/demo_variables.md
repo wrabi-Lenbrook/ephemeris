@@ -1,9 +1,10 @@
 ---
-name: Nadia Comaneci
+year: 1976
+name: Nadia&nbsp;Comaneci
 sport: gymnastics
 country: Romania
 ---
 
-# 1976 Olympics
+# {{ page.year }} Olympics
 
 That year, the spotlight was focussed on {{ page.name }} of  {{ page.country }}, who changed {{ page.sport }} forever.
