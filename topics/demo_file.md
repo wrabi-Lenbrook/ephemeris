@@ -1,4 +1,8 @@
-# Heading 1
+---
+title: Rising Sun
+---
+
+# {{ page.title }}
 
 paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph 
 
