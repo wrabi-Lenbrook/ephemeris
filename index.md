@@ -7,7 +7,7 @@ Everything about Jabberwocky.
 -  [Planets and stars](topics/planet_stars.md)
 -  [Travelling on a rocket](topics/rockets_travelling.md)
 
-------
+---
 
 -  [Link to demo page ](topics/demo_variables.md)
 -  [Link to another demo page](topics/demo_file.md)
