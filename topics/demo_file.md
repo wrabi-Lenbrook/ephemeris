@@ -5,5 +5,5 @@ title: Rising Sun
 
 # {{ page.title }}
 
-paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph 
+An investigation into storms.
 
