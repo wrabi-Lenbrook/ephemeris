@@ -5,9 +5,7 @@ title: Rising Sun
 
 # {{ page.title }}
 
-An investigation into storms.
+An investigation into storms and other natural phenomena.
 
-{% for item in site.data.flags %}
-The country of {{ item.name }} was created in {{ item.date }}. Its flag is {{ item.flag }}.
-{% endfor %}
+
 
