@@ -1,1 +1,0 @@
-&copy; {{ site.name }}, 323 BC - 2021 AD
