@@ -9,4 +9,4 @@ country: Romania
 
 That year, the spotlight was focussed on {{ page.person }} of  {{ page.country }}, who changed {{ page.sport }} forever.
 
-Demo of a file include: {{ include common2.txt }}
+Demo of a file include: {% include common2.txt %}
