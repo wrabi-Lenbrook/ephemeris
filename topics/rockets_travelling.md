@@ -1,4 +1,9 @@
-# Travelling on a rocket
+---
+layout: template_generalFiles
+title: Travelling on a rocket
+---
+
+# {{page.title}}
 
 You use a rocket to go from one planet, star, or satellite to another. Rockets can take only one person at a time, so, to travel on a rocket, you must know how to drive it.
 
