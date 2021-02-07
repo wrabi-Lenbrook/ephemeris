@@ -1,11 +1,20 @@
 h1, h2, h3, h4, h5, h6 {color:lightblue;}
 
-hr {border-color:blue;}
+hr { 
+  display: block;
+  border-width: 1px;
+  border-color: lightblue;
+} 
 
 header {
   font-family: Lucida Handwriting, Papyrus, cursive;
   font-size: 10px;
   font-style: oblique;
+}
+
+footer {
+  font-family: Lucida Handwriting, Papyrus, cursive;
+  font-size: 8px;
 }
 
 body {
