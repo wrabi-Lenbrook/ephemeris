@@ -18,12 +18,14 @@ We know from observations that space is filled with objects that are, primarily,
 
 One such mass is known as Earth and is populated, inter alia, by human beings. One such human being, who lived a very long time ago, was known as Aryabhat. He was a mathematician and an astronomer who formulated the following theorems.
 
-| Theorem name | Theorem text |
-| ------------ | ------------ |
-
+<table>
+<tr>
+<th>Theorem name</th><th>Theorem text</th>
+</tr>
 {% for item in site.data.theorems %}
-| {{ item.name }} | {{ item.text }} |
+<tr><td>{{ item.name }}</td><td>{{ item.text }}</td></tr>
 {% endfor %}
+</table>
 
 ## See also
 

@@ -20,7 +20,8 @@ Which brings us to the theory of relativity, which says, that the time of occurr
 
 Which, essentially, means that time and space cannot be separate from each other; time is space, space is time.
 
-> नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् | किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥
+>
+> नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् । किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥
 > 
 > Then even non-existence was not there, nor existence, there was no air then, nor the space beyond it.
 
