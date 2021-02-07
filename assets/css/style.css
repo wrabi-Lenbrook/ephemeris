@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6 {color:lightblue;}
+h1, h2, h3, h4, h5, h6 {color:#9E3942;}
 
 hr { 
   display: block;
@@ -9,12 +9,11 @@ hr {
 header {
   font-family: Lucida Handwriting, Papyrus, cursive;
   font-size: 16px;
-  font-style: oblique;
 }
 
 footer {
-  font-family: Lucida Handwriting, Papyrus, cursive;
-  font-size: 12px;
+  font-family: serif;
+  font-size: 10px;
 }
 
 body {

@@ -5,7 +5,7 @@ title: Time and distance
 
 # {{page.title}}
 
-Time is the distance between the occurrence of two events. Distance is the length of space between two objects or events. Time can be measured in kilometers (`How long is it to Babylon? Six hundred and thirty kilometers.`) and distance can be measured in years (`How far is it to Eden? A lifetime, and then some.`)
+Time is the distance between the occurrence of two events. Distance is the length of space between two objects or events. Time can be measured in kilometers (`"How long is it to Babylon?" "Six hundred and thirty kilometers."`) and distance can be measured in years (`"How far is it to Eden?" "A lifetime, and then some."`)
 
 According to a theorem in Physics, the quotient of distance and time is equal to the speed of an object. Thus, if the distance to Eden is 340 light years and the time it takes an object called Aryabhat to get to Eden is 20 years, the speed of Aryabhat is 17 light years per year. Assuming that Eden is northwards from Aryabhat’s starting position (assume that it’s Ujjain), Aryabhat’s velocity is 17 light years per year north.
 

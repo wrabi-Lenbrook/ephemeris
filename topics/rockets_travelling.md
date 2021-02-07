@@ -24,7 +24,7 @@ Before you can drive a rocket, you need a masters in any branch of microwave sci
 
 ## What to do next
 
-Strap your water bottle to your calf, don your sun hat, and step out.
+Strap your water bottle to your calf, don your sun hat on your head, and step out.
 
 ## See also
 
