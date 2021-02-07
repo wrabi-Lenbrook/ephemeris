@@ -26,7 +26,7 @@ The distance between any two objects in space can be calculated by the following
 
 ```
 with open('static/vs.json', encoding='utf-8') as f:
-  vs = json.load(f)
+    vs = json.load(f)
 @app.route('/', methods=['GET'])
 def home():
     return render_template('vs.html')

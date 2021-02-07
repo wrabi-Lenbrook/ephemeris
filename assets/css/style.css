@@ -7,8 +7,8 @@ hr {
 } 
 
 header {
-  font-family: Lucida Handwriting, Papyrus, cursive;
-  font-size: 16px;
+  font-family: Papyrus, Lucida Handwriting, cursive, Trebuchet MS;
+  font-size: 12px;
 }
 
 footer {
@@ -45,6 +45,27 @@ pre {
   padding: 2px;
   font-size: 105%;
 } 
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-family: monospace;
+}
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #f1f1f1;
+  padding: 2px;
+  color: crimson;
+}
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #f1f1f1;
+padding: 2px;
+}
 
 body {
 	line-height: 190%;
