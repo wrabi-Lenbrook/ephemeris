@@ -5,9 +5,8 @@ title: Aryabhat’s theorems
 
 # {{page.title}}
 
-Space, as defined by the Oxford English dictionary, is the dimensions of height, depth, and width within which all things exist and move. It is almost a vacuum, containing almost nothing. This _nothingness_ has been described poetically by several books, like you can see here: nothingness poetically:
+Space, as defined by the Oxford English dictionary, is the dimensions of height, depth, and width within which all things exist and move. It is almost a vacuum, containing almost nothing. This _nothingness_ has been described poetically by several books, like you can see here:
 
-Data file contents:
 
 {% for item in site.data.origin %}
 
@@ -21,9 +20,9 @@ One such mass is known as Earth and is populated, inter alia, by human beings. O
 
 | Theorem number | Theorem text |
 |----------------|--------------|
-{{counter=0}}
+{{ assign counter=0}}
 {% for item in site.data.theorems %}
-{{counter=counter+1}}
+{{ assign counter=counter+1}}
 | {{ counter }} | {{ item.counter }} |
 {% endfor %}
 

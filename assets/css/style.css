@@ -1,6 +1,12 @@
 h1, h2, h3, h4, h5, h6 {color:lightblue;}
 
-hr {border-color:#336600;}
+hr {border-color:blue;}
+
+header {
+  font-family: Lucida Handwriting, Papyrus, cursive;
+  font-size: 10px;
+  font-style: oblique;
+}
 
 body {
 	line-height: 190%;
