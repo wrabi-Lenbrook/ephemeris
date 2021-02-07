@@ -20,6 +20,20 @@ One can hop from planet to planet. All it takes is a rocket and a space suit, an
 >
 > "Certainly it is."
 
+## Distances
+
+The distance between any two objects in space can be calculated by the following formula:
+
+```python
+with open('static/vs.json', encoding='utf-8') as f:
+  vs = json.load(f)
+
+@app.route('/', methods=['GET'])
+def home():
+    return render_template('vs.html')
+
+```
+
 ## Satellites
 
 Satellites are objects that circle planets (or land on them). For example, these are satellites (a check mark indicates a successful mission)

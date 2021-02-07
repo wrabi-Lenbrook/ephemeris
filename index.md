@@ -5,7 +5,7 @@ title: Ephemeris Home
 
 # {{page.title}}
 
-Everything about Jabberwocky.
+Everything about Jabberwocky. That, and storms and other natural phenomena, and extra-terrestrial objects.
 
 -  [Aryabhat’s theorems](topics/aryabhat_theorems.md)
 -  [Time and distance](topics/time_distance.md)
